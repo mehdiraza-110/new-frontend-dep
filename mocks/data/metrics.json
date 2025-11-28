@@ -1,0 +1,80 @@
+{
+  "daily": [
+    {
+      "date": "2025-01-09",
+      "revenue": 45200,
+      "gmv": 301500,
+      "orders": 89,
+      "completedOrders": 82,
+      "canceledOrders": 7,
+      "avgOrderValue": 3388,
+      "takeRate": 15.0
+    },
+    {
+      "date": "2025-01-10",
+      "revenue": 52300,
+      "gmv": 348700,
+      "orders": 102,
+      "completedOrders": 95,
+      "canceledOrders": 7,
+      "avgOrderValue": 3419,
+      "takeRate": 15.0
+    },
+    {
+      "date": "2025-01-11",
+      "revenue": 48900,
+      "gmv": 326000,
+      "orders": 95,
+      "completedOrders": 88,
+      "canceledOrders": 7,
+      "avgOrderValue": 3432,
+      "takeRate": 15.0
+    },
+    {
+      "date": "2025-01-12",
+      "revenue": 61200,
+      "gmv": 408000,
+      "orders": 118,
+      "completedOrders": 112,
+      "canceledOrders": 6,
+      "avgOrderValue": 3458,
+      "takeRate": 15.0
+    },
+    {
+      "date": "2025-01-13",
+      "revenue": 55800,
+      "gmv": 372000,
+      "orders": 108,
+      "completedOrders": 100,
+      "canceledOrders": 8,
+      "avgOrderValue": 3444,
+      "takeRate": 15.0
+    },
+    {
+      "date": "2025-01-14",
+      "revenue": 58400,
+      "gmv": 389400,
+      "orders": 112,
+      "completedOrders": 105,
+      "canceledOrders": 7,
+      "avgOrderValue": 3477,
+      "takeRate": 15.0
+    },
+    {
+      "date": "2025-01-15",
+      "revenue": 32100,
+      "gmv": 214000,
+      "orders": 62,
+      "completedOrders": 45,
+      "canceledOrders": 3,
+      "avgOrderValue": 3452,
+      "takeRate": 15.0
+    }
+  ],
+  "system": {
+    "apiLatencyMs": 145,
+    "errorRate": 0.02,
+    "wsUptime": 99.8,
+    "activeConnections": 234
+  }
+}

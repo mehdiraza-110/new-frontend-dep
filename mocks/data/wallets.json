@@ -1,0 +1,62 @@
+[
+  {
+    "id": "wallet_001",
+    "ownerType": "provider",
+    "ownerId": "prov_001",
+    "balance": 45000,
+    "holds": 0,
+    "pendingPayout": 12000,
+    "currency": "PKR",
+    "lastUpdated": "2025-01-15T10:00:00"
+  },
+  {
+    "id": "wallet_002",
+    "ownerType": "provider",
+    "ownerId": "prov_002",
+    "balance": 32000,
+    "holds": 500,
+    "pendingPayout": 8500,
+    "currency": "PKR",
+    "lastUpdated": "2025-01-15T09:30:00"
+  },
+  {
+    "id": "wallet_003",
+    "ownerType": "provider",
+    "ownerId": "prov_003",
+    "balance": 67000,
+    "holds": 0,
+    "pendingPayout": 15000,
+    "currency": "PKR",
+    "lastUpdated": "2025-01-14T18:00:00"
+  },
+  {
+    "id": "wallet_004",
+    "ownerType": "customer",
+    "ownerId": "cust_001",
+    "balance": 2500,
+    "holds": 0,
+    "pendingPayout": 0,
+    "currency": "PKR",
+    "lastUpdated": "2025-01-15T08:00:00"
+  },
+  {
+    "id": "wallet_005",
+    "ownerType": "customer",
+    "ownerId": "cust_005",
+    "balance": 15000,
+    "holds": 1000,
+    "pendingPayout": 0,
+    "currency": "PKR",
+    "lastUpdated": "2025-01-15T10:20:00"
+  },
+  {
+    "id": "wallet_006",
+    "ownerType": "provider",
+    "ownerId": "prov_009",
+    "balance": 89000,
+    "holds": 2000,
+    "pendingPayout": 22000,
+    "currency": "PKR",
+    "lastUpdated": "2025-01-15T10:30:00"
+  }
+]

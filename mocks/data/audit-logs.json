@@ -1,0 +1,112 @@
+[
+  {
+    "id": "log_001",
+    "actor": "admin@marketplace.pk",
+    "actorRole": "ADMIN",
+    "action": "provider.approve",
+    "entity": "provider",
+    "entityId": "prov_001",
+    "details": "Approved provider KYC documents",
+    "timestamp": "2023-06-15T10:00:00",
+    "ip": "192.168.1.100"
+  },
+  {
+    "id": "log_002",
+    "actor": "operator@marketplace.pk",
+    "actorRole": "OPERATOR",
+    "action": "order.create",
+    "entity": "order",
+    "entityId": "ord_001",
+    "details": "Phone order created for customer cust_001",
+    "timestamp": "2025-01-15T08:00:00",
+    "ip": "192.168.1.101"
+  },
+  {
+    "id": "log_003",
+    "actor": "operator@marketplace.pk",
+    "actorRole": "OPERATOR",
+    "action": "order.assign",
+    "entity": "order",
+    "entityId": "ord_001",
+    "details": "Assigned to provider prov_001",
+    "timestamp": "2025-01-15T08:02:00",
+    "ip": "192.168.1.101"
+  },
+  {
+    "id": "log_004",
+    "actor": "finance@marketplace.pk",
+    "actorRole": "FINANCE",
+    "action": "wallet.adjust",
+    "entity": "wallet",
+    "entityId": "wallet_001",
+    "details": "Credit PKR 5000 - Bonus payment",
+    "timestamp": "2025-01-14T15:00:00",
+    "ip": "192.168.1.102"
+  },
+  {
+    "id": "log_005",
+    "actor": "admin@marketplace.pk",
+    "actorRole": "ADMIN",
+    "action": "provider.suspend",
+    "entity": "provider",
+    "entityId": "prov_008",
+    "details": "Suspended for policy violation",
+    "timestamp": "2025-01-10T12:00:00",
+    "ip": "192.168.1.100"
+  },
+  {
+    "id": "log_006",
+    "actor": "admin@marketplace.pk",
+    "actorRole": "ADMIN",
+    "action": "pricing.publish",
+    "entity": "priceRule",
+    "entityId": "price_001",
+    "details": "Published delivery pricing v3",
+    "timestamp": "2025-01-10T10:00:00",
+    "ip": "192.168.1.100"
+  },
+  {
+    "id": "log_007",
+    "actor": "operator@marketplace.pk",
+    "actorRole": "OPERATOR",
+    "action": "order.cancel",
+    "entity": "order",
+    "entityId": "ord_010",
+    "details": "Canceled - Customer request",
+    "timestamp": "2025-01-15T09:15:00",
+    "ip": "192.168.1.101"
+  },
+  {
+    "id": "log_008",
+    "actor": "finance@marketplace.pk",
+    "actorRole": "FINANCE",
+    "action": "payout.create",
+    "entity": "payout",
+    "entityId": "payout_001",
+    "details": "Created payout batch for 15 providers",
+    "timestamp": "2025-01-14T16:00:00",
+    "ip": "192.168.1.102"
+  },
+  {
+    "id": "log_009",
+    "actor": "admin@marketplace.pk",
+    "actorRole": "ADMIN",
+    "action": "commission.update",
+    "entity": "commissionRule",
+    "entityId": "comm_001",
+    "details": "Updated delivery commission to 15%",
+    "timestamp": "2025-01-10T10:00:00",
+    "ip": "192.168.1.100"
+  },
+  {
+    "id": "log_010",
+    "actor": "operator@marketplace.pk",
+    "actorRole": "OPERATOR",
+    "action": "order.reassign",
+    "entity": "order",
+    "entityId": "ord_005",
+    "details": "Reassigned from prov_003 to prov_007",
+    "timestamp": "2025-01-15T10:25:00",
+    "ip": "192.168.1.101"
+  }
+]

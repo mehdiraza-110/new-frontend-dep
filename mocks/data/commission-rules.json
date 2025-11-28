@@ -1,0 +1,62 @@
+[
+  {
+    "id": "comm_001",
+    "serviceType": "delivery",
+    "type": "percentage",
+    "value": 15,
+    "minAmount": 20,
+    "maxAmount": 200,
+    "tier": "standard",
+    "status": "published",
+    "version": 2,
+    "updatedAt": "2025-01-10T10:00:00"
+  },
+  {
+    "id": "comm_002",
+    "serviceType": "courier",
+    "type": "percentage",
+    "value": 15,
+    "minAmount": 25,
+    "maxAmount": 250,
+    "tier": "standard",
+    "status": "published",
+    "version": 1,
+    "updatedAt": "2025-01-05T12:00:00"
+  },
+  {
+    "id": "comm_003",
+    "serviceType": "moving",
+    "type": "percentage",
+    "value": 15,
+    "minAmount": 50,
+    "maxAmount": 500,
+    "tier": "standard",
+    "status": "published",
+    "version": 1,
+    "updatedAt": "2024-12-15T09:00:00"
+  },
+  {
+    "id": "comm_004",
+    "serviceType": "heavy",
+    "type": "percentage",
+    "value": 15,
+    "minAmount": 80,
+    "maxAmount": 800,
+    "tier": "standard",
+    "status": "published",
+    "version": 1,
+    "updatedAt": "2024-12-10T14:00:00"
+  },
+  {
+    "id": "comm_005",
+    "serviceType": "delivery",
+    "type": "percentage",
+    "value": 12,
+    "minAmount": 15,
+    "maxAmount": 150,
+    "tier": "premium",
+    "status": "published",
+    "version": 1,
+    "updatedAt": "2025-01-12T11:00:00"
+  }
+]

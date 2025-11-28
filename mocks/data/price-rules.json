@@ -1,0 +1,72 @@
+[
+  {
+    "id": "price_001",
+    "serviceType": "delivery",
+    "city": "all",
+    "baseFare": 150,
+    "perKmRate": 20,
+    "perMinRate": 2,
+    "minFare": 100,
+    "surgePeak": 1.5,
+    "surgeRain": 1.3,
+    "status": "published",
+    "version": 3,
+    "updatedAt": "2025-01-10T10:00:00"
+  },
+  {
+    "id": "price_002",
+    "serviceType": "courier",
+    "city": "all",
+    "baseFare": 200,
+    "perKmRate": 20,
+    "perMinRate": 2,
+    "minFare": 150,
+    "surgePeak": 1.4,
+    "surgeRain": 1.2,
+    "status": "published",
+    "version": 2,
+    "updatedAt": "2025-01-08T14:00:00"
+  },
+  {
+    "id": "price_003",
+    "serviceType": "moving",
+    "city": "all",
+    "baseFare": 500,
+    "perKmRate": 30,
+    "perMinRate": 3,
+    "minFare": 400,
+    "surgePeak": 1.3,
+    "surgeRain": 1.1,
+    "status": "published",
+    "version": 2,
+    "updatedAt": "2025-01-05T09:00:00"
+  },
+  {
+    "id": "price_004",
+    "serviceType": "heavy",
+    "city": "all",
+    "baseFare": 800,
+    "perKmRate": 30,
+    "perMinRate": 3,
+    "minFare": 600,
+    "surgePeak": 1.2,
+    "surgeRain": 1.1,
+    "status": "published",
+    "version": 1,
+    "updatedAt": "2024-12-20T11:00:00"
+  },
+  {
+    "id": "price_005",
+    "serviceType": "delivery",
+    "city": "Karachi",
+    "baseFare": 140,
+    "perKmRate": 18,
+    "perMinRate": 2,
+    "minFare": 90,
+    "surgePeak": 1.6,
+    "surgeRain": 1.4,
+    "status": "draft",
+    "version": 1,
+    "updatedAt": "2025-01-14T16:00:00"
+  }
+]
